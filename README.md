@@ -3,10 +3,10 @@
 Implementation for the super resolution of both 2D and 3D images. Involved Neural Networks: EDSR, SR-Resnet Residual, SRGAN, WDSR, SRCNN.
 
 ## Authors
-[YingDa Wang](https://github.com/yingDaWang-UNSW "GitHub Account")<br>
-[Yanfeng Li](social media account link "hover information")<br>
-[Ryan Armstrong](social media account link "hover information")<br>
-[Peyman Mostaghimi](social media account link "hover information")<br>
+[Ying Da Wang](https://scholar.google.com/citations?hl=en&user=dTVGAC0AAAAJ "Google Scholar")<br>
+[Yanfeng Li]<br>
+[Ryan Armstrong](https://scholar.google.com/citations?user=rekpeKYAAAAJ&hl=en "Google Scholar")<br>
+[Peyman Mostaghimi](https://scholar.google.com/citations?user=9YhsEa0AAAAJ&hl=en "Google Scholar")<br>
 ...
 
 (Department, UNSW)
