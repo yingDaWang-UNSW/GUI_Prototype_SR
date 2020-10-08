@@ -4,12 +4,15 @@ Implementation for the super resolution of both 2D and 3D images. Involved Neura
 
 ## Authors
 [Ying Da Wang](https://scholar.google.com/citations?hl=en&user=dTVGAC0AAAAJ "Google Scholar")<br>
-[Yanfeng Li]<br>
+Yanfeng Li<br>
 [Ryan Armstrong](https://scholar.google.com/citations?user=rekpeKYAAAAJ&hl=en "Google Scholar")<br>
 [Peyman Mostaghimi](https://scholar.google.com/citations?user=9YhsEa0AAAAJ&hl=en "Google Scholar")<br>
 ...
 
-(Department, UNSW)
+(School of Minerals and Energy Resources Engineering, Univerisity of New South Wales)
+
+Coming Soon:<br>
+Migration to TF2, and unpaired real LR to HR networks
 
 ## Installation
 **Version 0.1**<br>
