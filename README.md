@@ -4,9 +4,9 @@ Implementation for the super resolution of both 2D and 3D images. Involved Neura
 
 ## Authors
 [YingDa Wang](https://github.com/yingDaWang-UNSW "GitHub Account")<br>
-[Name](social media account link "hover information")<br>
-[Name](social media account link "hover information")<br>
-[Name](social media account link "hover information")<br>
+[Yanfeng Li](social media account link "hover information")<br>
+[Ryan Armstrong](social media account link "hover information")<br>
+[Peyman Mostaghimi](social media account link "hover information")<br>
 ...
 
 (Department, UNSW)
@@ -14,6 +14,17 @@ Implementation for the super resolution of both 2D and 3D images. Involved Neura
 ## Installation
 **Version 0.1**<br>
 This software is compatible with windows, mac, and linux  machines. It will install anaconda3, along with the necessary python packages in a containerised anaconda environment. <br>
+
+Before continuing with installation, you will need to download this repository, and a folder containing the models and testing images.
+
+Downloading this repo can be done using the link above - click on the green "Code" button, and then click on "Download ZIP".
+
+Once Downloaded, unzip the folder and download the model (see next sentence)
+
+The folder containing the models and testing images is here:
+https://drive.google.com/file/d/13o3Vz65YlByJjw8zMvX0C11TXCvKGOXS/view?usp=sharing
+
+Download and extract this into each folder "Windows, Mac, or Linux" - whichever you wish to use.
 
 **Linux and Mac**
 
